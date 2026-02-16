@@ -3,7 +3,8 @@ spring:
     url: jdbc:postgresql://localhost:5432/devdb
     username: devuser
     password: devpassword
-    driver-class-name: org.postgresql.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
 
   jpa:
     hibernate:
