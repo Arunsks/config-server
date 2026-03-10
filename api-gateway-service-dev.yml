@@ -48,5 +48,4 @@ management:
 
   endpoint:
     gateway:
-      enabled: true
       access: unrestricted
