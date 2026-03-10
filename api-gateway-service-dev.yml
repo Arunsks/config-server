@@ -49,3 +49,7 @@ management:
   endpoint:
     gateway:
       access: unrestricted
+
+  endpoint:
+    gateway:
+      enabled: true
